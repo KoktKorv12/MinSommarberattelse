@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-left: 20%;
+  padding-right: 20%;
+  background-color: lightyellow;
+  font-family: "Montserrat";
+}
+
+h1 {
+  text-align: center;
+  padding: 1rem;
+  font-size: 50px;
+  margin-top: 10%;
+}
+
+p {
+  font-weight: 500;
+  font-size: 20px;
+}
